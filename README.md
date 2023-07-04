@@ -59,7 +59,7 @@ Contributions to this project are welcome. Feel free to submit bug reports, feat
 
 ## Resources
 
-- [MFRC522 RFID Module Datasheet](link-to-datasheet) - Documentation for the MFRC522 RFID module.
+- [MFRC522 RFID Module Datasheet](https://www.arduino.cc/reference/en/libraries/mfrc522/) - Documentation for the MFRC522 RFID module.
 - [Arduino Website](https://www.arduino.cc) - Official website of Arduino for documentation, tutorials, and community support.
 
 Feel free to customize the README file based on your project's specific details, features, and resources. Additionally, ensure that you provide proper attribution for any external resources or references used in your project.
@@ -67,3 +67,4 @@ Feel free to customize the README file based on your project's specific details,
 Remember to follow ethical guidelines and legal regulations when conducting security-related projects.
 
 Good luck with your project, and happy hacking!
+ 
